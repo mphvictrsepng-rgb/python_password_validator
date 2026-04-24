@@ -1,4 +1,4 @@
-# --- QUESTION 1: THE BASIC GATEKEEPER ---
+# -- QUESTION 1: THE BASIC GATEKEEPER --
 
 password = input('Question 1 - Set your password here: ')
 if len(password) < 6:
